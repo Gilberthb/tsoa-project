@@ -1,0 +1,16 @@
+{
+  "name": "tsoa-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gilberthb <gilberthb704@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1",
+    "tsoa": "^6.5.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.9.0",
+    "typescript": "^5.6.3"
+  }
+}
